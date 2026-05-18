@@ -8,7 +8,7 @@ I used Google Gemini to generate a high-fidelity synthetic dataset covering four
 ## Installation :computer:
 [pip or pip3] install -r requirements.txt
 
-## Runing :key:
+## Running :key:
 [python or python3] trainer.py
 
 ## Sample Run (in Notebook)
